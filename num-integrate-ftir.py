@@ -4,7 +4,6 @@ from pathlib import Path
 from matplotlib import pyplot as plt
 import pandas as pd
 
-
 def process_single_file(test, wavenumber_range):
     """
     Args:
